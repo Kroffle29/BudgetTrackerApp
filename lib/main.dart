@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'login_page.dart';
 import 'register_page.dart';
 import 'dashboard_page.dart'; // 👈 Import the dashboard page
+import 'home_page.dart';
 
 void main() {
   runApp(TrackerApp());
